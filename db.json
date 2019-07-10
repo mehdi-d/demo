@@ -1,9 +1,728 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+  "standings": [
+{},
+{},
+{
+"identifier": "3lod0yoyvou2uxrjbkakppnusivuzmjf",
+"position": 3,
+"team_identifier": "6cxcxvvgupsoe2hcmrk3yw0uiyfoigoj",
+"team": "Lione",
+"overall": {
+"wins": 21,
+"draws": 9,
+"losts": 8,
+"points": 72,
+"scores": 70,
+"conceded": 47,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": 23
+},
+"home": {
+"wins": 12,
+"draws": 4,
+"losts": 3,
+"scores": 38,
+"conceded": 19,
+"points": 40,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 19
+},
+"away": {
+"wins": 9,
+"draws": 5,
+"losts": 5,
+"scores": 32,
+"conceded": 28,
+"points": 32,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 4
+},
+"penalization_points": 0
+},
+{
+"identifier": "qsdmulvkv8tgwzbjbzb9zlkdx9ht03ck",
+"position": 4,
+"team_identifier": "fhx1bjpqnrr3uwevbxhffjwomxtyhfuq",
+"team": "Saint-Étienne",
+"overall": {
+"wins": 19,
+"draws": 9,
+"losts": 10,
+"points": 66,
+"scores": 59,
+"conceded": 41,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": 18
+},
+"home": {
+"wins": 13,
+"draws": 2,
+"losts": 4,
+"scores": 34,
+"conceded": 14,
+"points": 41,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 20
+},
+"away": {
+"wins": 6,
+"draws": 7,
+"losts": 6,
+"scores": 25,
+"conceded": 27,
+"points": 25,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -2
+},
+"penalization_points": 0
+},
+{
+"identifier": "1umgaq9wl5surl27iaddxbqpj9qx1pqq",
+"position": 5,
+"team_identifier": "esmsxerk5hipmghi7yrpctld5ayhldj1",
+"team": "Ol. Marsiglia",
+"overall": {
+"wins": 18,
+"draws": 7,
+"losts": 13,
+"points": 61,
+"scores": 60,
+"conceded": 52,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": 8
+},
+"home": {
+"wins": 11,
+"draws": 4,
+"losts": 4,
+"scores": 31,
+"conceded": 17,
+"points": 37,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 14
+},
+"away": {
+"wins": 7,
+"draws": 3,
+"losts": 9,
+"scores": 29,
+"conceded": 35,
+"points": 24,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -6
+},
+"penalization_points": 0
+},
+{
+"identifier": "vb8mkzo9f6mmavjjnkrq8mgejel6qvg9",
+"position": 6,
+"team_identifier": "wx02iutyutvyun2vkcxwhogennhsokyi",
+"team": "Montpellier",
+"overall": {
+"wins": 15,
+"draws": 14,
+"losts": 9,
+"points": 59,
+"scores": 53,
+"conceded": 42,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": 11
+},
+"home": {
+"wins": 8,
+"draws": 8,
+"losts": 3,
+"scores": 31,
+"conceded": 20,
+"points": 32,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 11
+},
+"away": {
+"wins": 7,
+"draws": 6,
+"losts": 6,
+"scores": 22,
+"conceded": 22,
+"points": 27,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 0
+},
+"penalization_points": 0
+},
+{
+"identifier": "rhxkazdgoty64stshhpp1w0laqmv7ttq",
+"position": 7,
+"team_identifier": "fwublaqs28vzd2ksnlur9ygm4hfeydjz",
+"team": "Nizza",
+"overall": {
+"wins": 15,
+"draws": 11,
+"losts": 12,
+"points": 56,
+"scores": 30,
+"conceded": 35,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": -5
+},
+"home": {
+"wins": 10,
+"draws": 4,
+"losts": 5,
+"scores": 19,
+"conceded": 14,
+"points": 34,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 5
+},
+"away": {
+"wins": 5,
+"draws": 7,
+"losts": 7,
+"scores": 11,
+"conceded": 21,
+"points": 22,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -10
+},
+"penalization_points": 0
+},
+{
+"identifier": "dirolct0kcuhmz16s86kujnthqqggs2c",
+"position": 8,
+"team_identifier": "tkabudsbiofrgrudgderbadnwrbfcvv8",
+"team": "Reims",
+"overall": {
+"wins": 13,
+"draws": 16,
+"losts": 9,
+"points": 55,
+"scores": 39,
+"conceded": 42,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": -3
+},
+"home": {
+"wins": 8,
+"draws": 7,
+"losts": 4,
+"scores": 21,
+"conceded": 18,
+"points": 31,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 3
+},
+"away": {
+"wins": 5,
+"draws": 9,
+"losts": 5,
+"scores": 18,
+"conceded": 24,
+"points": 24,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -6
+},
+"penalization_points": 0
+},
+{
+"identifier": "vyjdvacd1jzpmgfieicweranmlqvafrd",
+"position": 9,
+"team_identifier": "yhkj7gpl7qihwfhop3fmftqqzofffoln",
+"team": "Nimes",
+"overall": {
+"wins": 15,
+"draws": 8,
+"losts": 15,
+"points": 53,
+"scores": 57,
+"conceded": 58,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": -1
+},
+"home": {
+"wins": 9,
+"draws": 5,
+"losts": 5,
+"scores": 30,
+"conceded": 20,
+"points": 32,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 10
+},
+"away": {
+"wins": 6,
+"draws": 3,
+"losts": 10,
+"scores": 27,
+"conceded": 38,
+"points": 21,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -11
+},
+"penalization_points": 0
+},
+{
+"identifier": "mfwsiydtk8gctgjqgxqrq4iqcymnnqmx",
+"position": 10,
+"team_identifier": "otsgas9tksigzykvoytyl4ginfez4mj8",
+"team": "Rennes",
+"overall": {
+"wins": 13,
+"draws": 13,
+"losts": 12,
+"points": 52,
+"scores": 55,
+"conceded": 52,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": 3
+},
+"home": {
+"wins": 8,
+"draws": 7,
+"losts": 4,
+"scores": 27,
+"conceded": 18,
+"points": 31,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 9
+},
+"away": {
+"wins": 5,
+"draws": 6,
+"losts": 8,
+"scores": 28,
+"conceded": 34,
+"points": 21,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -6
+},
+"penalization_points": 0
+},
+{
+"identifier": "piuer7lerocqbgkk3kfouyl6sfbbyz7j",
+"position": 11,
+"team_identifier": "4dsfvodecrfgzxzcg3wlavlmiwxd0eqg",
+"team": "Racing Strasburgo",
+"overall": {
+"wins": 11,
+"draws": 16,
+"losts": 11,
+"points": 49,
+"scores": 58,
+"conceded": 48,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": 10
+},
+"home": {
+"wins": 6,
+"draws": 8,
+"losts": 5,
+"scores": 31,
+"conceded": 25,
+"points": 26,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 6
+},
+"away": {
+"wins": 5,
+"draws": 8,
+"losts": 6,
+"scores": 27,
+"conceded": 23,
+"points": 23,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 4
+},
+"penalization_points": 0
+},
+{
+"identifier": "qx46bm4edzdipyt8qtluym7x67ejngje",
+"position": 12,
+"team_identifier": "kpfiahjj3w38cbfgxn5rewpfcczl6ubc",
+"team": "Nantes",
+"overall": {
+"wins": 13,
+"draws": 9,
+"losts": 16,
+"points": 48,
+"scores": 48,
+"conceded": 48,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": 0
+},
+"home": {
+"wins": 9,
+"draws": 4,
+"losts": 6,
+"scores": 35,
+"conceded": 24,
+"points": 31,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 11
+},
+"away": {
+"wins": 4,
+"draws": 5,
+"losts": 10,
+"scores": 13,
+"conceded": 24,
+"points": 17,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -11
+},
+"penalization_points": 0
+},
+{
+"identifier": "owzwfiqm0yfp5ov7yk7voytcjgimqn6p",
+"position": 13,
+"team_identifier": "w3hrk7slzvc4pubhgbzm5sl7r1teffcv",
+"team": "Angers",
+"overall": {
+"wins": 10,
+"draws": 16,
+"losts": 12,
+"points": 46,
+"scores": 44,
+"conceded": 49,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": -5
+},
+"home": {
+"wins": 5,
+"draws": 9,
+"losts": 5,
+"scores": 24,
+"conceded": 22,
+"points": 24,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 2
+},
+"away": {
+"wins": 5,
+"draws": 7,
+"losts": 7,
+"scores": 20,
+"conceded": 27,
+"points": 22,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -7
+},
+"penalization_points": 0
+},
+{
+"identifier": "8tszlws190cl0ghdpirep4odsllpptdt",
+"position": 14,
+"team_identifier": "ifjdrlucvahfevrsshdqptadbslbbskk",
+"team": "Bordeaux",
+"overall": {
+"wins": 10,
+"draws": 11,
+"losts": 17,
+"points": 41,
+"scores": 34,
+"conceded": 42,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": -8
+},
+"home": {
+"wins": 7,
+"draws": 6,
+"losts": 6,
+"scores": 24,
+"conceded": 21,
+"points": 27,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": 3
+},
+"away": {
+"wins": 3,
+"draws": 5,
+"losts": 11,
+"scores": 10,
+"conceded": 21,
+"points": 14,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -11
+},
+"penalization_points": 0
+},
+{
+"identifier": "betze21jvbptdjutyd75xb9bkvkok2xl",
+"position": 15,
+"team_identifier": "1sq2rq5qloeabznscrhkrsx0zl1jj59b",
+"team": "Amiens",
+"overall": {
+"wins": 9,
+"draws": 11,
+"losts": 18,
+"points": 38,
+"scores": 31,
+"conceded": 52,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": -21
+},
+"home": {
+"wins": 7,
+"draws": 5,
+"losts": 7,
+"scores": 20,
+"conceded": 22,
+"points": 26,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -2
+},
+"away": {
+"wins": 2,
+"draws": 6,
+"losts": 11,
+"scores": 11,
+"conceded": 30,
+"points": 12,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -19
+},
+"penalization_points": 0
+},
+{
+"identifier": "fshirgb1renevyvx92m4l4pij5qfkfpq",
+"position": 16,
+"team_identifier": "3prtjmfogrk8qcxmkgwdp5holo9dsksu",
+"team": "Tolosa",
+"overall": {
+"wins": 8,
+"draws": 14,
+"losts": 16,
+"points": 38,
+"scores": 35,
+"conceded": 57,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": -22
+},
+"home": {
+"wins": 4,
+"draws": 9,
+"losts": 6,
+"scores": 20,
+"conceded": 26,
+"points": 21,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -6
+},
+"away": {
+"wins": 4,
+"draws": 5,
+"losts": 10,
+"scores": 15,
+"conceded": 31,
+"points": 17,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -16
+},
+"penalization_points": 0
+},
+{
+"identifier": "lj6mexzej4wfvzxvsf0aqest3btwvywq",
+"position": 17,
+"team_identifier": "wtisfy1sbyfixbmm07opmocriethcdy4",
+"team": "Monaco",
+"overall": {
+"wins": 8,
+"draws": 12,
+"losts": 18,
+"points": 36,
+"scores": 38,
+"conceded": 57,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": -19
+},
+"home": {
+"wins": 4,
+"draws": 6,
+"losts": 9,
+"scores": 19,
+"conceded": 29,
+"points": 18,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -10
+},
+"away": {
+"wins": 4,
+"draws": 6,
+"losts": 9,
+"scores": 19,
+"conceded": 28,
+"points": 18,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -9
+},
+"penalization_points": 0
+},
+{
+"identifier": "cnhwu85ilvo0o7dx6u47izoibhsx2ing",
+"position": 18,
+"team_identifier": "kfy1ubmszm0owil32bcvmzppsfrpzdlx",
+"team": "Digione",
+"overall": {
+"wins": 9,
+"draws": 7,
+"losts": 22,
+"points": 34,
+"scores": 31,
+"conceded": 60,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": -29
+},
+"home": {
+"wins": 6,
+"draws": 4,
+"losts": 9,
+"scores": 18,
+"conceded": 29,
+"points": 22,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -11
+},
+"away": {
+"wins": 3,
+"draws": 3,
+"losts": 13,
+"scores": 13,
+"conceded": 31,
+"points": 12,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -18
+},
+"penalization_points": 0
+},
+{
+"identifier": "pesaxsjvyxwrdifo55wv9qgz49ezpras",
+"position": 19,
+"team_identifier": "pe2emzcdhwvshbdkqvx0vvu00wlxb6dt",
+"team": "Caen",
+"overall": {
+"wins": 7,
+"draws": 12,
+"losts": 19,
+"points": 33,
+"scores": 29,
+"conceded": 54,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": -25
+},
+"home": {
+"wins": 4,
+"draws": 5,
+"losts": 10,
+"scores": 16,
+"conceded": 27,
+"points": 17,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -11
+},
+"away": {
+"wins": 3,
+"draws": 7,
+"losts": 9,
+"scores": 13,
+"conceded": 27,
+"points": 16,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -14
+},
+"penalization_points": 0
+},
+{
+"identifier": "tiqahrdsuog3j6y9nonko69qsqjllqiv",
+"position": 20,
+"team_identifier": "sb5fhlwrtuqmuehwioecgxy3aqjzhsgt",
+"team": "Guingamp",
+"overall": {
+"wins": 5,
+"draws": 12,
+"losts": 21,
+"points": 27,
+"scores": 28,
+"conceded": 68,
+"last_5": "",
+"matches_played": 38,
+"goal_difference": -40
+},
+"home": {
+"wins": 3,
+"draws": 7,
+"losts": 9,
+"scores": 16,
+"conceded": 27,
+"points": 16,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -11
+},
+"away": {
+"wins": 2,
+"draws": 5,
+"losts": 12,
+"scores": 12,
+"conceded": 41,
+"points": 11,
+"last_5": "",
+"matches_played": 19,
+"goal_difference": -29
+},
+"penalization_points": 0
+}
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }

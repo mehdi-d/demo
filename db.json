@@ -1,7 +1,7 @@
 {
   "standings": [
    {
-      "identifier":"opjzi9ib3zdjka0nddo54uz1soaospcd",
+      "id":"opjzi9ib3zdjka0nddo54uz1soaospcd",
       "position":1,
       "team_identifier":"ivuslft2wq0kwyskydqqxja43mv5ofbx",
       "team":"Paris SG",
@@ -18,7 +18,7 @@
       }
    },
    {
-      "identifier":"mfwueozvc02uar6xvtgpkztmhuft0lyn",
+      "id":"mfwueozvc02uar6xvtgpkztmhuft0lyn",
       "position":2,
       "team_identifier":"wfx186yg8va80gxxuyyjmwqyue4aehaj",
       "team":"Lilla",
@@ -52,7 +52,7 @@
       }
    },
    {
-      "identifier":"qsdmulvkv8tgwzbjbzb9zlkdx9ht03ck",
+      "id":"qsdmulvkv8tgwzbjbzb9zlkdx9ht03ck",
       "position":4,
       "team_identifier":"fhx1bjpqnrr3uwevbxhffjwomxtyhfuq",
       "team":"Saint-Étienne",
@@ -69,7 +69,7 @@
       }
    },
    {
-      "identifier":"1umgaq9wl5surl27iaddxbqpj9qx1pqq",
+      "id":"1umgaq9wl5surl27iaddxbqpj9qx1pqq",
       "position":5,
       "team_identifier":"esmsxerk5hipmghi7yrpctld5ayhldj1",
       "team":"Ol. Marsiglia",
@@ -86,7 +86,7 @@
       }
    },
    {
-      "identifier":"vb8mkzo9f6mmavjjnkrq8mgejel6qvg9",
+      "id":"vb8mkzo9f6mmavjjnkrq8mgejel6qvg9",
       "position":6,
       "team_identifier":"wx02iutyutvyun2vkcxwhogennhsokyi",
       "team":"Montpellier",
@@ -103,7 +103,7 @@
       }
    },
    {
-      "identifier":"dirolct0kcuhmz16s86kujnthqqggs2c",
+      "id":"dirolct0kcuhmz16s86kujnthqqggs2c",
       "position":8,
       "team_identifier":"tkabudsbiofrgrudgderbadnwrbfcvv8",
       "team":"Reims",
@@ -120,7 +120,7 @@
       }
    },
    {
-      "identifier":"vyjdvacd1jzpmgfieicweranmlqvafrd",
+      "id":"vyjdvacd1jzpmgfieicweranmlqvafrd",
       "position":9,
       "team_identifier":"yhkj7gpl7qihwfhop3fmftqqzofffoln",
       "team":"Nimes",
@@ -137,7 +137,7 @@
       }
    },
    {
-      "identifier":"mfwsiydtk8gctgjqgxqrq4iqcymnnqmx",
+      "id":"mfwsiydtk8gctgjqgxqrq4iqcymnnqmx",
       "position":10,
       "team_identifier":"otsgas9tksigzykvoytyl4ginfez4mj8",
       "team":"Rennes",
